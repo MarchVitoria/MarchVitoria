@@ -19,11 +19,12 @@
              📚
             </font></font>I also have an interest in other areas such as software engineering, networking and cybersecurity, and am seeking to learn new languages such as C, C++, etc.
             
+<!--
 <br><br>
 <p align='center'>
   <img src="https://github-readme-stats.vercel.app/api?username=MarchVitoria&theme=gotham&show_icons=true" alt="Vitoria's GitHub stats" />
 </p>
-
+-->
 <!--
 **MarchVitoria/MarchVitoria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
