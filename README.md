@@ -2,7 +2,7 @@
              🤘
             </font></font>
 </h3>
-<br><br>
+<br>
 <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
              💻
             </font></font>Resident in Artificial Intelligence at <a href='https://www.senaipr.org.br/tecnologiaeinovacao/nossarede/hubia/'>HUB de IA - SENAI</a>
