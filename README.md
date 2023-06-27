@@ -17,7 +17,7 @@
 <br>
 <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
              📚
-            </font></font>I also have an interest in other areas such as software engineering, networking and cybersecurity, and am seeking to learn new languages such as C, C++, etc.
+            </font></font>I also have an interest in other areas such as software engineering, networking and cybersecurity, and am seeking to learn new languages such as C, C++, PHP, etc.
             
 <!--
 <br><br>
