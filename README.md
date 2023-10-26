@@ -5,7 +5,7 @@
 <br>
 <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
              💻
-            </font></font>Resident in Artificial Intelligence at <a href='https://www.senaipr.org.br/tecnologiaeinovacao/nossarede/hubia/'>HUB de IA - SENAI</a>
+            </font></font>Artificial intelligence specialist from <a href='https://www.senaipr.org.br/tecnologiaeinovacao/nossarede/hubia/'>HUB de IA - SENAI</a>
 <br>
 <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
              🎓
@@ -13,7 +13,7 @@
 <br>
 <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
              📝
-            </font></font>I am currently learning Python applied to Machine Learning and Data Science.
+            </font></font>I am currently learning and working with django-based web development at <a href='https://www.senaipr.org.br/tecnologiaeinovacao/nossarede/tecnologiadainformacaoecomunicacao/'> Instituto de Tecnologia - SENAI - IA</a>.
 <br>
 <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
              📚
