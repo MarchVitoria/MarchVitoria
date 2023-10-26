@@ -5,7 +5,7 @@
 <br>
 <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
              💻
-            </font></font>Artificial intelligence specialist from <a href='https://www.senaipr.org.br/tecnologiaeinovacao/nossarede/hubia/'>HUB de IA - SENAI</a>
+            </font></font>Artificial intelligence specialist at <a href='https://www.senaipr.org.br/tecnologiaeinovacao/nossarede/hubia/'>HUB de IA - SENAI</a>
 <br>
 <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
              🎓
