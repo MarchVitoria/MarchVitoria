@@ -13,7 +13,7 @@
 <br>
 <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
              📝
-            </font></font>I am currently learning and working with django-based web development at <a href='https://www.senaipr.org.br/tecnologiaeinovacao/nossarede/tecnologiadainformacaoecomunicacao/'> Instituto de Tecnologia - SENAI - IA</a>.
+            </font></font>I am currently learning and working with django-based web development and AI research at <a href='https://www.senaipr.org.br/tecnologiaeinovacao/nossarede/tecnologiadainformacaoecomunicacao/'> Instituto de Tecnologia - SENAI - IA</a>.
 <br>
 <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
              📚
